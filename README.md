@@ -1,23 +1,24 @@
-# Lead_tracker
-**Lead Tracker Chrome Extension**
+# Lead Tracker Chrome Extension**
 The Lead Tracker Chrome extension offers a streamlined solution for saving and managing URLs effectively. 
 This extension simplifies the process of storing URLs for later use and setting reminders to ensure you never miss important content.
 
-**Features**
+## Features
 
-Save Current Tab URL
-Add Custom URLs
-Delete Saved URLs
+- Save Current Tab URL
+* Add Custom URLs
++ Delete Saved URLs
 
-**Usage**
+## Usage
 
-Click the extension icon in your Chrome toolbar to open the interface.
-Use the "Save Current Tab URL" button to instantly preserve the URL of your active tab.
-Add custom URLs by clicking "Add Custom URL" and providing the link along with notes.
-Set reminders for saved URLs using the "Set Reminder" feature and specifying a date and time.
-Access and manage your saved URLs and reminders within the extension's interface.
+- Click the extension icon in your Chrome toolbar to open the interface.
+-Use the "Save Current Tab URL" button to instantly preserve the URL of your active tab.
+- Add custom URLs by clicking "Add Custom URL" and providing the link along with notes.
+- Access and manage your saved URLs and reminders within the extension's interface.
 
-**Installation**
+## Preview 
+![Screenshot of working of this Lead Tracker Extension ]
+
+## Installation
 Clone the repository to your local machine.
 Open Chrome and navigate to chrome://extensions/.
 Enable "Developer mode."
