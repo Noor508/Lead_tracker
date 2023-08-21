@@ -18,11 +18,11 @@ This extension simplifies the process of storing URLs for later use and setting 
 ## Preview 
 ![Screenshot of aExtension working and preview ](Noor508/Lead_tracker/blob/main/preview.jpg)
 ## Installation
-Clone the repository to your local machine.
-Open Chrome and navigate to chrome://extensions/.
-Enable "Developer mode."
-Click "Load unpacked" and select the repository directory.
+-Clone the repository to your local machine.
+-Open Chrome and navigate to chrome://extensions/.
+-Enable "Developer mode."
+-Click "Load unpacked" and select the repository directory.
 Contributing
 Contributions, bug reports, and feature requests are welcome through issues and pull requests.
 
-Disclaimer: This extension is an independent project and is not affiliated with or endorsed by Google Chrome. Stay organized and never miss crucial content again with the URL Saver and Reminder Chrome extension.
+**Disclaimer**: This extension is an independent project and is not affiliated with or endorsed by Google Chrome. Stay organized and never miss crucial content again with the URL Saver and Reminder Chrome extension.
