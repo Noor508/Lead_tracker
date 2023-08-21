@@ -16,8 +16,7 @@ This extension simplifies the process of storing URLs for later use and setting 
 - Access and manage your saved URLs and reminders within the extension's interface.
 
 ## Preview 
-![Screenshot of working of this Lead Tracker Extension ]
-
+![Screenshot of aExtension working and preview ](Noor508/Lead_tracker/blob/main/preview.jpg)
 ## Installation
 Clone the repository to your local machine.
 Open Chrome and navigate to chrome://extensions/.
