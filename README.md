@@ -5,9 +5,9 @@ This extension simplifies the process of storing URLs for later use and setting 
 
 **Features**
 
-**$Save Current Tab URL**
-**$Add Custom URLs**
-**$Delete URLs**
+Save Current Tab URL
+Add Custom URLs
+Delete Saved URLs
 
 **Usage**
 
